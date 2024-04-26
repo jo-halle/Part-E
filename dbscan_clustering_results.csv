@@ -1,0 +1,21 @@
+eps,min_samples,silhouette_score
+0.3,5,N/A - One cluster or noise
+0.3,10,N/A - One cluster or noise
+0.3,15,N/A - One cluster or noise
+0.3,20,N/A - One cluster or noise
+0.5,5,N/A - One cluster or noise
+0.5,10,N/A - One cluster or noise
+0.5,15,N/A - One cluster or noise
+0.5,20,N/A - One cluster or noise
+0.7,5,N/A - One cluster or noise
+0.7,10,N/A - One cluster or noise
+0.7,15,N/A - One cluster or noise
+0.7,20,N/A - One cluster or noise
+1.0,5,-0.08415433082244461
+1.0,10,N/A - One cluster or noise
+1.0,15,N/A - One cluster or noise
+1.0,20,N/A - One cluster or noise
+1.5,5,-0.295614945436275
+1.5,10,-0.40001359478909143
+1.5,15,-0.37371003996346996
+1.5,20,-0.25302011092582044
